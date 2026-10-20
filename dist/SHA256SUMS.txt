@@ -1,0 +1,5 @@
+# Patched build
+4c8cd4b37108dfc096c7624930138c0f9ec3e2c427f91e0a8c5d20f7e4546845  PCL 2.99.0.0 DownloadFix.exe
+
+# Official PCL 2.99.0.0 original (not included in this repository)
+6b6e1260cb5a1d6a303855f1c60cab3d0bc1aebba7e40a964180188b271e7386  Plain Craft Launcher 2.exe
