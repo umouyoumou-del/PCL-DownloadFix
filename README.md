@@ -42,6 +42,11 @@
 └─ README.md
 ```
 
+## 直接下载
+
+- [PCL 2.99.0.0 DownloadFix.exe](dist/PCL%202.99.0.0%20DownloadFix.exe)
+- [SHA256SUMS.txt](dist/SHA256SUMS.txt)
+
 ## 使用方法
 
 1. 从本仓库 `dist/` 下载 `PCL 2.99.0.0 DownloadFix.exe`。
